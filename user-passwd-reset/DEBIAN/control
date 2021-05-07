@@ -1,0 +1,8 @@
+Package: user-passwd-reset
+Version: 1.0.0
+Architecture: all
+Maintainer: Tomas Crhonek <tomas@heronovo.cz>
+Installed-Size: 0
+Section: non-free/tomasc
+Priority: optional
+Description: Install this package to reset password for specific user.
